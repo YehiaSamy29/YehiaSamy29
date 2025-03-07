@@ -27,9 +27,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=GraphQL)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=MongoDB)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C-Sharp&logoColor=239120)&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=abstract&logoColor=white)&nbsp;
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=flat&logo=code&logoColor=white)&nbsp;
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-05122A?style=flat&logo=thinkpad&logoColor=white)&nbsp;
+
 
 
 

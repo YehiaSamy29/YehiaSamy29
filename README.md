@@ -29,9 +29,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C-Sharp&logoColor=239120)&nbsp;
-![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=abstract&logoColor=white)&nbsp;
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=flat&logo=code&logoColor=white)&nbsp;
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-05122A?style=flat&logo=thinkpad&logoColor=white)&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=code&logoColor=white)&nbsp;
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=flat&logo=databricks&logoColor=white)&nbsp;
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-05122A?style=flat&logo=criticalrole&logoColor=white)&nbsp;
+
 
 
 

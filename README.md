@@ -12,8 +12,11 @@
 </p> 
 
 🎓 Student at El Sewedy International Academy – Software Development
+
 💻 Skilled in C++, OOP, Data Structures, and Algorithms
+
 🌐 Currently learning Front-End Development with HTML, CSS, and React
+
 🚀 Passionate about problem-solving and building efficient solutions
 
 
